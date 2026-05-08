@@ -3,20 +3,20 @@
 <h3>Java Backend Developer Fresher passionate about building scalable and secure backend applications.</h3>
 
 -------------------------------------------------------------------------------------------------------
-🚀 About Me
+<h4>🚀 About Me</h4>
+<ul>
+<li>   🔭 I build backend applications using Spring Boot, Spring Security, and REST APIs</li>
 
-   🔭 I build backend applications using Spring Boot, Spring Security, and REST APIs
+ <li>  🌱 Passionate about clean, secure, and scalable server-side architecture</li>
 
-   🌱 Passionate about clean, secure, and scalable server-side architecture
+<li>   🎓 B.E. Graduate from Sri Sai Ram Institute of Technology, Chennai</li>
 
-   🎓 B.E. Graduate from Sri Sai Ram Institute of Technology, Chennai
+  <li> 💼 Actively looking for Java Backend Developer roles</li>
 
-   💼 Actively looking for Java Backend Developer roles
-
-   🤝 Open to full-stack opportunities too (Spring Boot + HTML/CSS/JS)
-
+ <li> 🤝 Open to full-stack opportunities too (Spring Boot + HTML/CSS/JS)</li> 
+</ul>
   -----------------------------------------------------------------------------------------------------
-🛠️ Skills & Tools
+<h4>🛠️ Skills & Tools</h4>
 <table>
   <tr>
     <td valign="top"><strong>💡 Languages & Frameworks</strong></td>
