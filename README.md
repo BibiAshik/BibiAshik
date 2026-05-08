@@ -1,3 +1,8 @@
+Hi, I'm Bibi Ashik 👋
+
+Java Backend Developer Fresher passionate about building scalable and secure backend applications.
+
+-------------------------------------------------------------------------------------------------------
 🚀 About Me
 
    🔭 I build backend applications using Spring Boot, Spring Security, and REST APIs
@@ -10,6 +15,6 @@
 
    🤝 Open to full-stack opportunities too (Spring Boot + HTML/CSS/JS)
 
-  
+  -----------------------------------------------------------------------------------------------------
 
 
