@@ -29,7 +29,6 @@ Java Backend Developer Fresher passionate about building scalable and secure bac
       <ul>
         <li>Core Java / OOP</li>
         <li>Spring Boot</li>
-        <li>Spring MVC</li>
         <li>Spring Security</li>
         <li>Spring JPA</li>
         <li>REST APIs</li>
