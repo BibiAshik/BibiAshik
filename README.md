@@ -49,7 +49,7 @@
 - 📰 Published final-year project paper **"Intelligent Water Safety Signal Transmitting System"** in **IEEE Xplore**
 - 💻 Solved **1000+ coding problems** on SkillRack — sharpening DSA, logical thinking, and programming skills
 - 👥 Led a team of 3 members during the final-year project — coordinated task distribution, workflow planning, and timely execution
-- 🔐 Integrated **Razorpay payment gateway** with webhook-driven real-time matching across multiple projects
+- 🔐 Integrated **Razorpay payment gateway** across multiple projects
 - 🐳 Dockerized all major projects with production-ready `Dockerfile` and `docker-compose` configurations
 - 🔒 Built **JWT + OAuth2** security from scratch across three independent projects
 
