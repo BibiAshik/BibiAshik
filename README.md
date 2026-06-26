@@ -31,7 +31,7 @@
 
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
-**DevOps & Tooling**
+**Tools**
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)&nbsp;
