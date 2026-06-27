@@ -59,7 +59,7 @@
 
 - 💼 [LinkedIn — Bibi Ashik B A](https://www.linkedin.com/in/bibiashik05)
 - 📫 bibiashik2005@gmail.com
-- 🐙 [GitHub — BibiAshik](https://github.com/BibiAshik)
+
 
 ---
 
