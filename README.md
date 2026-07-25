@@ -22,7 +22,7 @@
 **Languages & Core**
 
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)&nbsp;
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)&nbsp;
+[![SQL](https://skillicons.dev/icons?i=mysql&label=SQL)](https://mysql.com)&nbsp;
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -31,7 +31,6 @@
 
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)&nbsp;
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)&nbsp;
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)&nbsp;
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
 **Tools**
