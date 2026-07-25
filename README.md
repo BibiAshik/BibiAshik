@@ -29,14 +29,15 @@
 
 **Backend & Frameworks**
 
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)&nbsp;
+[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)&nbsp;
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
 **Tools**
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)&nbsp;
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)&nbsp;
-[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)&nbsp;
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea)&nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
