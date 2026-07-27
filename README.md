@@ -58,8 +58,8 @@
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn — Bibi Ashik B A](https://www.linkedin.com/in/bibiashik05)
-
-- 📫 [bibiashik2005@gmail.com](mailto:bibiashik2005@gmail.com)
+- 🌐 [Portfolio](https://bibi-ashik-portfolio.vercel.app/)
+- 📫 [bibiashik2005@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=bibiashik2005@gmail.com)
 
 ---
 
