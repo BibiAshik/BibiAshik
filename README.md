@@ -8,7 +8,7 @@
 - 🔭 I build backend applications using **Spring Boot**, **Spring Security**, and **REST APIs**
 - 🌱 Passionate about clean, secure, and scalable server-side architecture
 - 🎓 B.E. Graduate from **Sri Sairam Institute of Technology**, Chennai — 2026
-- 📰 Published final-year project paper in **IEEE Xplore**
+- 📰 Published college final-year project paper in **IEEE Xplore**
 - 💼 Actively looking for **Java Backend Developer** roles
 - 🤝 Open to full-stack opportunities too (Spring Boot + HTML/CSS/JS)
 
