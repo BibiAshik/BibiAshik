@@ -83,6 +83,7 @@ Gold loan management system with Razorpay integration, Redis caching, and automa
 - 💼 [LinkedIn — Bibi Ashik B A](https://www.linkedin.com/in/bibiashik05)
 - 🌐 [Portfolio](https://bibi-ashik-portfolio.vercel.app/)
 - 📫 [bibiashik2005@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=bibiashik2005@gmail.com)
+- 📄 [Resume](https://bibi-ashik-portfolio.vercel.app/Bibi_Ashik_JavaDeveloper_Resume.pdf)
 
 ---
 
