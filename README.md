@@ -55,7 +55,7 @@
 
 ## 📌 Featured Projects
 
-### 🔒 [Safe Share](https://github.com/yourusername/Safe-Share)
+### 🔒 [Safe Share](https://github.com/BibiAshik/Safe-Share)
 Secure file-sharing platform with JWT + Google OAuth2, Redis-backed rate limiting, and automated PDF watermarking.
 
 ### 🍽️ [Serve Flow](https://github.com/yourusername/Serve-Flow)
