@@ -58,10 +58,10 @@
 ### 🔒 [Safe Share](https://github.com/BibiAshik/Safe-Share)
 Secure file-sharing platform with JWT + Google OAuth2, Redis-backed rate limiting, and automated PDF watermarking.
 
-### 🍽️ [Serve Flow](https://github.com/yourusername/Serve-Flow)
+### 🍽️ [Serve Flow](https://github.com/BibiAshik/Serve-Flow)
 Real-time canteen billing system with live UPI payment matching, ESC/POS thermal printer integration, and SSE-based live dashboards.
 
-### 💰 [Trust Ledger](https://github.com/yourusername/Trust-Ledger)
+### 💰 [Trust Ledger](https://github.com/BibiAshik/Trust-Ledger)
 Gold loan management system with Razorpay integration, Redis caching, and automated scheduled reminders.
 
 ---
